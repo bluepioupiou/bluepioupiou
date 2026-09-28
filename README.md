@@ -7,7 +7,7 @@ Ce qui me plaît : remettre des tests au propre, construire l'outil qui fait gag
 
 - 🤝 **On va travailler ensemble ?** Lis [Travailler avec moi](./travailler-avec-moi.md) : comment j'échange, mes convictions, mes travers.
 - 🛠 **Mes méthodes de travail ?** Lis [mes convictions professionnelles](./mes-convictions.md) : comment je travaille, quelles sont mes méthodes, mes habitudes de code.
-- 💬 **Me contacter** : [par mail](begey.alain@gmail.com)
+- 💬 **Me contacter** : [par mail](mailto:begey.alain@gmail.com)
 
 # Mes réalisations
 
